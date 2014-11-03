@@ -1,1 +1,1 @@
-web: gunicorn hellodjango.wsgi --log-file -
+web: gunicorn thinkster_django_angular_boilerplate.wsgi --log-file -
