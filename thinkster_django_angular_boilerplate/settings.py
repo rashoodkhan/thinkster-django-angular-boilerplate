@@ -85,3 +85,9 @@ STATIC_URL = '/static/'
 
 STATICFILES_DIRS = ('static',)
 TEMPLATE_DIRS = ('templates',)
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework.authentication.SessionAuthentication',
+    )
+}
