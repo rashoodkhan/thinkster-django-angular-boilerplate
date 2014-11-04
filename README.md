@@ -13,7 +13,7 @@
 
 ## Deployment
 
-*NOTE: Requires [Heroku Toolbelt](https://toolbelt.heroku.com/).
+*NOTE: Requires [Heroku Toolbelt](https://toolbelt.heroku.com/).*
 
 * `$ heroku apps:create`
 * `$ heroku config:set BUILDPACK_URL=https://github.com/ddollar/heroku-buildpack-multi.git`
