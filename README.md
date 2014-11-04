@@ -2,6 +2,10 @@
 
 ## Installation
 
+*NOTE: Requires [virtualenv](http://virtualenv.readthedocs.org/en/latest/),
+[virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) and
+[Node.js](http://nodejs.org/).*
+
 * `$ git clone git@github.com:brwr/thinkster-django-angular-boilerplate.git`
 * `$ mkvirtualenv thinkster-djangular`
 * `$ cd thinkster-django-angular-boilerplate/`
