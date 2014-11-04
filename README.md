@@ -6,7 +6,8 @@
 [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) and
 [Node.js](http://nodejs.org/).*
 
-* `$ git clone git@github.com:brwr/thinkster-django-angular-boilerplate.git`
+* Fork this repository.
+* `$ git clone git@github.com:<your username>/thinkster-django-angular-boilerplate.git`
 * `$ mkvirtualenv thinkster-djangular`
 * `$ cd thinkster-django-angular-boilerplate/`
 * `$ pip install -r requirements.txt`
